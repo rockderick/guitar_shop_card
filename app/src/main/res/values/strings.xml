@@ -2,5 +2,5 @@
     <string name="app_name">Guitar Shop</string>
     <string name="address">Zarco 76, Guerrero, 06300 Ciudad de México, CDMX</string>
     <string name="phone_number">01 55 2614 8438</string>
-    <string name="schedule">Abierto </string>
+    <string name="schedule">Abierto:  10–14, 16–20 </string>
 </resources>
